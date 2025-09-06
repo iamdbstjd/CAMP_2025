@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mit06\\source\\repos\\Project2_32212061_\uBCC0\uC724\uC131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A686680-1D0B-4E2D-9ADF-5979DD01A3E4}|Project2_32212061_\uBCC0\uC724\uC131\\Project2_32212061_\uBCC0\uC724\uC131.vcxproj|C:\\Users\\mit06\\source\\repos\\Project_32212061_\uBCC0\uC724\uC131\\Project_32212061_\uBCC0\uC724\uC131\\Project2_32212061_\uBCC0\uC724\uC131.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project2_32212061_\uBCC0\uC724\uC131.c",
+              "DocumentMoniker": "C:\\Users\\mit06\\source\\repos\\Project_32212061_\uBCC0\uC724\uC131\\Project_32212061_\uBCC0\uC724\uC131\\Project2_32212061_\uBCC0\uC724\uC131.c",
+              "RelativeDocumentMoniker": "..\\Project_32212061_\uBCC0\uC724\uC131\\Project_32212061_\uBCC0\uC724\uC131\\Project2_32212061_\uBCC0\uC724\uC131.c",
+              "ToolTip": "C:\\Users\\mit06\\source\\repos\\Project_32212061_\uBCC0\uC724\uC131\\Project_32212061_\uBCC0\uC724\uC131\\Project2_32212061_\uBCC0\uC724\uC131.c",
+              "RelativeToolTip": "..\\Project_32212061_\uBCC0\uC724\uC131\\Project_32212061_\uBCC0\uC724\uC131\\Project2_32212061_\uBCC0\uC724\uC131.c",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAqwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-26T05:06:12.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
